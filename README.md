@@ -7,6 +7,12 @@ Preview each wallpaper below and use them in your setup.
 
 ## Wallpapers
 
+### Star Lens
+![Star Lens](Star-Lens.jpg)
+
+### Blue-Chaos
+![Blue-Chaos](Blue-Chaos.jpg)
+
 ### Against-The-Current
 ![Against-The-Current](Against-The-Current.png)
 
