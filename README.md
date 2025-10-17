@@ -37,8 +37,8 @@ Preview each wallpaper below and use them in your setup.
 ### Sonoma
 ![Sonoma](Sonoma.jpg)
 
-### Tahoe-city
-![Tahoe-city](Tahoe-city.jpeg)
+### Tahoe-City
+![Tahoe-City](Tahoe-City.jpeg)
 
 ### Tea-Mist
 ![Tea-Mist](Tea-Mist.png)
