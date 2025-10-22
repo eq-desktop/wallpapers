@@ -13,6 +13,9 @@ Preview each wallpaper below and use them in your setup.
 ### Blue-Chaos
 ![Blue-Chaos](Blue-Chaos.jpg)
 
+### Solar-Eclipse
+![Solar-Eclipse](Solar-Eclipse.jpg)
+
 ### Against-The-Current
 ![Against-The-Current](Against-The-Current.png)
 
