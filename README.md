@@ -46,6 +46,33 @@ Preview each wallpaper below and use them in your setup.
 ### Tea-Mist
 ![Tea-Mist](Tea-Mist.png)
 
+### Abstract-Clouds
+![Abstract-Clouds](Abstract-Clouds.jpg)
+
+### Cave
+![Cave](Cave.jpg)
+
+### Closed-Sunflower
+![Closed-Sunflower](Closed-Sunflower.png)
+
+### Earth
+![Earth](Earth.jpg)
+
+### Glass-Layers
+![Glass-Layers](Glass-Layers.jpg)
+
+### Golden-Candy
+![Golden-Candy](Golden-Candy.jpg)
+
+### Red-Moon
+![Red-Moon](Red-Moon.jpg)
+
+### Shaded-Mountain
+![Shaded-Mountain](Shaded-Mountain.jpg)
+
+### Whiskey
+![Whiskey](Whiskey.jpg)
+
 ---
 
 ## Usage
