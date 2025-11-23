@@ -10,6 +10,9 @@ Preview each wallpaper below and use them in your setup.
 ### Star Lens
 ![Star Lens](Star-Lens.jpg)
 
+### Purple
+![Purple](Purple.png)
+
 ### Blue-Chaos
 ![Blue-Chaos](Blue-Chaos.jpg)
 
