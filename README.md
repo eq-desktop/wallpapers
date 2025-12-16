@@ -45,9 +45,38 @@ Preview each wallpaper below and use them in your setup.
 
 ### Tahoe-City
 ![Tahoe-City](Tahoe-City.jpeg)
+### Tahoe-city
+![Tahoe-city](Tahoe-city.jpeg)
+
+### Tahoe-Lake
+![Tahoe-Lake](Tahoe-Lake.png)
+
+### Tahoe-Dark
+![Tahoe-Dark](Tahoe-Dark.jpg)
+
+### Tahoe-Light
+![Tahoe-Light](Tahoe-Light.jpg)
 
 ### Tea-Mist
 ![Tea-Mist](Tea-Mist.png)
+
+### A-Journey
+![A-Journey](A-Journey.png)
+
+### Bonsai
+![Bonsai](Bonsai.png)
+
+### Macro
+![Macro](Macro.png)
+
+### Mountain
+![Mountain](Mountain.png)
+
+### Skyfall
+![Skyfall](Skyfall.png)
+
+### Village
+![Village](Village.png)
 
 ### Abstract-Clouds
 ![Abstract-Clouds](Abstract-Clouds.jpg)
