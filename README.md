@@ -105,6 +105,12 @@ Preview each wallpaper below and use them in your setup.
 ### Whiskey
 ![Whiskey](Whiskey.jpg)
 
+### RainWorldFalling
+![RainWorldFalling](RainWorldFalling.png)
+
+### RainWorldRain
+![RainWorldRain](RainWorldRain.jpg)
+
 ---
 
 ## Usage
