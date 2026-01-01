@@ -111,6 +111,18 @@ Preview each wallpaper below and use them in your setup.
 ### RainWorldRain
 ![RainWorldRain](RainWorldRain.jpg)
 
+### Gruv Portal Cake
+![Gruv Portal Cake](Gruv-Portal-Cake.png)
+
+### Gruv Understand
+![Gruv Understand](Gruv-Understand.png)
+
+### World Map Dark
+![World Map Dark](World-Map-Dark.png)
+
+### World Map Light
+![World Map Light](World-Map-Light.png)
+
 ---
 
 ## Usage
