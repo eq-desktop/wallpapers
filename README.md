@@ -86,6 +86,9 @@ Preview each wallpaper below and use them in your setup.
 ### Macro
 ![Macro](Macro.png)
 
+### Rain Leaf
+![Rain Leaf](Rain-Leaf.png)
+
 ### Mountain
 ![Mountain](Mountain.png)
 
