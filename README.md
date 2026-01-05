@@ -7,6 +7,9 @@ Preview each wallpaper below and use them in your setup.
 
 ## Wallpapers
 
+<details>
+<summary>Tahiti eqSh</summary>
+
 ### Star Lens
 ![Star Lens](Star-Lens.jpg)
 
@@ -22,8 +25,6 @@ Preview each wallpaper below and use them in your setup.
 ### Against-The-Current
 ![Against-The-Current](Against-The-Current.png)
 
-### Reservoir
-![Reservoir](Reservoir.png)
 
 ### Slick
 ![Slick](Slick.jpg)
@@ -31,22 +32,33 @@ Preview each wallpaper below and use them in your setup.
 ### Sun-Rays
 ![Sun-Rays](Sun-Rays.jpg)
 
-### Tea-Day
-![Tea-Day](Tea-Day.png)
-
 ### Worm-Hole
 ![Worm-Hole](Worm-Hole.png)
+
+</details>
+
+<details>
+<summary>Other macOS wallpapers</summary>
 
 ### Sequoia-Sunrise
 ![Sequoia-Sunrise](Sequoia-Sunrise.png)
 
+### Tea-Day
+![Tea-Day](Tea-Day.png)
+
+### Reservoir
+![Reservoir](Reservoir.png)
+
 ### Sonoma
 ![Sonoma](Sonoma.jpg)
 
+</details>
+
+<details>
+<summary>Tahoe</summary>
+
 ### Tahoe-City
 ![Tahoe-City](Tahoe-City.jpeg)
-### Tahoe-city
-![Tahoe-city](Tahoe-city.jpeg)
 
 ### Tahoe-Lake
 ![Tahoe-Lake](Tahoe-Lake.png)
@@ -56,6 +68,11 @@ Preview each wallpaper below and use them in your setup.
 
 ### Tahoe-Light
 ![Tahoe-Light](Tahoe-Light.jpg)
+
+</details>
+
+<details>
+<summary>Tilt-Shift / Scenery</summary>
 
 ### Tea-Mist
 ![Tea-Mist](Tea-Mist.png)
@@ -77,6 +94,11 @@ Preview each wallpaper below and use them in your setup.
 
 ### Village
 ![Village](Village.png)
+
+</details>
+
+<details>
+<summary>Abstract</summary>
 
 ### Abstract-Clouds
 ![Abstract-Clouds](Abstract-Clouds.jpg)
@@ -105,11 +127,38 @@ Preview each wallpaper below and use them in your setup.
 ### Whiskey
 ![Whiskey](Whiskey.jpg)
 
+</details>
+
+<details>
+<summary>Rainworld</summary>
+
 ### RainWorldFalling
 ![RainWorldFalling](RainWorldFalling.png)
 
 ### RainWorldRain
 ![RainWorldRain](RainWorldRain.jpg)
+
+### RainWorldFamily
+![RainWorldFamily](RainWorldFamily.png)
+
+### RainWorldFriend
+![RainWorldFriend](RainWorldFriend.png)
+
+### RainWorldCreature
+![RainWorldCreature](RainWorldCreature.png)
+
+### RainWorldHome
+![RainWorldHome](RainWorldHome.jpg)
+
+### RainWorldLogo
+![RainWorldLogo](RainWorldLogo.png)
+
+### RainWorldNeon
+![RainWorldNeon](RainWorldNeon.png)
+</details>
+
+<details>
+<summary>GruvBox</summary>
 
 ### Gruv Portal Cake
 ![Gruv Portal Cake](Gruv-Portal-Cake.png)
@@ -122,6 +171,8 @@ Preview each wallpaper below and use them in your setup.
 
 ### World Map Light
 ![World Map Light](World-Map-Light.png)
+
+</details>
 
 ---
 
